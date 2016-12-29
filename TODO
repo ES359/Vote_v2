@@ -1,0 +1,10 @@
+# Update Debug.java - DONE.
+# Update Voter Utils - DONE
+# Update Vote GUI handling and configuration.
+# Update rewards/item giving with Permission settings. (Implement the method used for Build GUI with giving Items. as well as implementing into Vote GUI)
+# Give permission on wiether or not /vote opens gui or displays text.\
+# Debug and remove dead code in main class. - DONE.
+# Update Permission handling ? (Low priority)
+# Update plugin.yml and configuration yml
+# Configure repetition of broadcasts for individuals
+ho have already voted.
